@@ -1,0 +1,35 @@
+Correct headers
+Delete empty row
+Unide all hidden columns
+Sort  by last name
+Split by city, State and Zip
+*Sorted by street name
+Format social security number
+Remove speial charater in SSN and phone number
+Uniformity in date
+Splitting date into Start and End Date
+
+
+
+
+Convert list to tables
+----------------------
+ctrl+. for moving to corners for checking empty rows and columns
+shortcut on cell ctrl+A followed by ctrl+T
+Banded rows and banded columns
+First column vs last column empasis
+Downside Data subtotal
+convert to range
+
+Table name
+Formulars look different in a formatted table as compared to a list
+Absolute refencing
+when percentage increase is outside the table
+complex formular with table names
+ referenced when formular is part of the table
+Calculations by refering to cell vs refering to table name
+using the table name shows the column on which you are aggregating
+
+Calculating of empty cells: countblank()
+Advantage of using table name to count blank
+
