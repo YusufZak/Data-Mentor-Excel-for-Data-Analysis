@@ -34,7 +34,7 @@ Depending on the purpose for the analyses to be performed, there may be a need f
     1. A new column needs to be inserted to the right of the column being split.
     2. Before deleting the original column(s), remember to duplicate the newly formatted columns by copying and pasting as values into the newly inserted column, to avoid field errors.
 
-![Logo] (https://github.com/YusufZak/Data-Mentor-Excel-for-Data-Analysis/blob/main/Flash%20fill%20using%20formular.PNG)
+![Logo](https://github.com/YusufZak/Data-Mentor-Excel-for-Data-Analysis/blob/main/Flash%20fill%20using%20formular.PNG)
 
 Flash filling from the ```RIGHT``` using formular:
 
@@ -55,7 +55,7 @@ Description: For this we reference the ```Table Conversion``` worksheet. We will
 
 Table referencing comes with many some advantages such as being able to directly reference column names in the range of the table as seen in the picture below:
 
-https://github.com/YusufZak/Data-Mentor-Excel-for-Data-Analysis/blob/main/Aggregrate%20function%20Table%20Reference.PNG
+![Logo](https://github.com/YusufZak/Data-Mentor-Excel-for-Data-Analysis/blob/main/Aggregrate%20function%20Table%20Reference.PNG)
 
 In some situations, the advantages of using Table Referencing becomes aparently clear, and the use of Range References will lead to the wrong results.
 
@@ -63,7 +63,7 @@ In some situations, the advantages of using Table Referencing becomes aparently 
 
 Column Reference counted all bank cells in the entire worksheet. While on the other hand the Table Reference is correctly within the range of the table.
 
-https://github.com/YusufZak/Data-Mentor-Excel-for-Data-Analysis/blob/main/Final%20Table%20formulas.PNG
+![Logo](https://github.com/YusufZak/Data-Mentor-Excel-for-Data-Analysis/blob/main/Final%20Table%20formulas.PNG)
 
 **NB:** The right table name to be referenced can be found in the Top left corner of the ```Table Design``` tab as shown below:
 
